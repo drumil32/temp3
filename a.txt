@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 hello
 okay now new things
+=======
+kya chal raha he?
+>>>>>>> 5a7e4a0 (modified a.txt)
