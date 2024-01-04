@@ -2,3 +2,4 @@ hello
 okay now new things
 kya chal raha he?
 d
+new things are added git status
